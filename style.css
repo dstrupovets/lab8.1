@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+    background-color: rgb(232, 240, 240);
+    width: 1100px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+span{
+    color: rgb(37, 36, 35);
+    font-size: 50px;
+    padding: 5px;
+    font-weight: bold;
+}
+p{
+    font-size: 30px;
+    padding: 5px;
+}
+img{
+    width: 700px;
+}
